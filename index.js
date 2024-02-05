@@ -475,7 +475,7 @@ function removeEmployee() {
     }
 
     function quit() {
-        console.log("Goodby!");
+        console.log("Goodbye!");
         process.exit();
     }
     
